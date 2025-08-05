@@ -1,6 +1,11 @@
 # FusCoating-NexABS-CF20
 NexABS-CF20 is one type 3D printing ABS filament with co-extrusion skin-core structure and 20% Carbon fiber to improve its mechanical properties.
 
+#How To Use
+Wiki：https://wiki.fusrock.com/en/home
+
+
+
 # Health Tips — Caring for Your Health: FusRock Recommends You
 1. For long-term and extensive use of 3D printing materials, it is recommended to operate in a dedicated room with proper ventilation.
 2. If you have a history of allergies, make sure that the material you are using will not cause any allergic reactions upon contact.
